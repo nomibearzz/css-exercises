@@ -1,0 +1,28 @@
+/* button.click{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.no{
+    background-color: #f9e93fec;
+}
+
+.yes{
+    background-color: hsla(120, 5%, 7%, 0.844);
+    color: white;
+} */
+
+
+.click-me, .do-not-click {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.click-me{
+    background-color: hsla(120, 5%, 7%, 0.844);
+    color: white;
+}
+
+.do-not-click{
+    background-color: #f9e93fec;
+}
